@@ -4,8 +4,8 @@
 #include <stdbool.h>
 
 #include <SDL2/SDL.h>
+#include <emily/types.h>
 #include "node.h"
-#include "types.h"
 #include "vector.h"
 
 struct emily_UI

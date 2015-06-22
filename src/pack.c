@@ -1,6 +1,6 @@
 
+#include <emily/types.h>
 #include "node.h"
-#include "types.h"
 #include "theme.h"
 #include "state.h"
 

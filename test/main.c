@@ -3,8 +3,8 @@
 #include <SDL2/SDL_image.h>
 #undef main
 
-#include "emily.h"
-#include "luaapi.h"
+#include <emily/emily.h>
+#include <emily/luaapi.h>
 
 #include <stdio.h>
 #include <stdbool.h>

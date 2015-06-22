@@ -1,5 +1,5 @@
 
-#include "emily.h"
+#include <emily/emily.h>
 
 #include <stdlib.h>
 #include <stdio.h>

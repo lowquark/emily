@@ -3,7 +3,7 @@
 
 #include <SDL2/SDL.h>
 
-#include "types.h"
+#include <emily/types.h>
 #include "vector.h"
 
 struct emily_Node

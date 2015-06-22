@@ -1,6 +1,6 @@
 
-#include "luaapi.h"
-#include "emily.h"
+#include <emily/luaapi.h>
+#include <emily/emily.h>
 
 #include <SDL2/SDL_ttf.h>
 #include <stdlib.h>
